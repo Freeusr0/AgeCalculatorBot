@@ -1,4 +1,4 @@
 python-telegram-bot
 PyYaml
 python-dateutil
-ParseMode
+telegram.constants.ParseMode
